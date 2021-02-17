@@ -1,8 +1,7 @@
 {
-  "private": true,
-  "name": "blog",
-  "description": "Preact's netlify CMS template",
-  "version": "0.1.2",
+  "name": "l4l-preact",
+  "description": "Live 4 Love using Preact and Netlify",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "start": "per-env",
@@ -47,16 +46,12 @@
   "jest": {
     "preset": "jest-preset-preact"
   },
-  "bugs": {
-    "url": "https://github.com/preactjs/preact-netlify/issues"
-  },
-  "homepage": "https://github.com/preactjs/preact-netlify#readme",
   "keywords": [
     "preact",
     "netlify"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/preactjs/preact-netlify.git"
+    "url": "git+https://github.com/jolielive/l4l-preact.git"
   }
 }
