@@ -3,5 +3,5 @@
   command = "yarn build"
   publish = "build"
 [build.environment]
-  YARN_VERSION = "1.9.4"
+  YARN_VERSION = "1.22.10"
   YARN_FLAGS = "--no-ignore-optional"
